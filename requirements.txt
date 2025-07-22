@@ -1,6 +1,8 @@
 fastapi
 uvicorn
-transformers
 torch
-pillow
+Pillow
 requests
+python-dotenv
+supabase
+openai-clip
